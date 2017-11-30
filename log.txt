@@ -1,0 +1,183 @@
+---------------------------------------------
+Thu Nov 30 2017 12:15:42 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,movie-this,into the woods
+DATA OUTPUT:
+Title: Into the Woods
+Year: 2014
+IMDb Rating: 6.0
+Rotten Tomatoes Rating: N/A
+Country: USA, UK, Canada
+Language: English
+Plot: A witch tasks a childless baker and his wife with procuring magical items from classic fairy tales to reverse the curse put on their family tree.
+Actors: Anna Kendrick, Daniel Huttlestone, James Corden, Emily Blunt
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 14:39:28 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,movie-this,twins
+DATA OUTPUT:
+Title: Twins
+Year: 1988
+IMDb Rating: 6.0
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English
+Plot: A physically perfect but innocent man goes in search of his long-lost twin brother, who is short, a womanizer, and small-time crook.
+Actors: Arnold Schwarzenegger, Danny DeVito, Kelly Preston, Chloe Webb
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 14:46:57 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,spotify-this-song,yesterday
+
+DATA OUTPUT: 
+Artist: Imagine Dragons
+Song: Yesterday
+Preview Link: null
+Album: Evolve
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 14:51:59 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,spotify-this-song,somewhere over the rainbow
+
+DATA OUTPUT: 
+Artist: Ariana Grande
+Song: Somewhere Over The Rainbow - Live From Manchester
+Preview Link: null
+Album: Somewhere Over The Rainbow (Live From Manchester)
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 14:53:14 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,spotify-this-song,in my life
+
+DATA OUTPUT: 
+Artist: Stevie Wonder
+Song: For Once In My Life
+Preview Link: null
+Album: For Once In My Life
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 14:57:13 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,spotify-this-song,forever young
+
+DATA OUTPUT: 
+Artist: Lil Yachty
+Song: Forever Young
+Preview Link: null
+Album: Teenage Emotions
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 14:57:43 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,spotify-this-song,garden song
+
+DATA OUTPUT: 
+Artist: Keith Bear
+Song: Hidatsa Garden Song
+Preview Link: https://p.scdn.co/mp3-preview/ed85678ee4f028999c86193c22fb8390e66500e1?cid=e76c729b447f4347b573ba9b1bcb8945
+Album: Spirit Mountain - Authentic Music of the American Indian
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 15:04:29 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,spotify-this-song,garden song
+
+DATA OUTPUT: 
+Artist: Keith Bear
+Song: Hidatsa Garden Song
+Preview Link: https://p.scdn.co/mp3-preview/ed85678ee4f028999c86193c22fb8390e66500e1?cid=e76c729b447f4347b573ba9b1bcb8945
+Album: Spirit Mountain - Authentic Music of the American Indian
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 15:04:35 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,spotify-this-song,garden song
+
+DATA OUTPUT: 
+Artist: Keith Bear
+Song: Hidatsa Garden Song
+Preview Link: https://p.scdn.co/mp3-preview/ed85678ee4f028999c86193c22fb8390e66500e1?cid=e76c729b447f4347b573ba9b1bcb8945
+Album: Spirit Mountain - Authentic Music of the American Indian
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 15:05:59 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,spotify-this-song,sympathy for the devil
+
+DATA OUTPUT: 
+Artist: The Rolling Stones
+Song: Sympathy For The Devil
+Preview Link: null
+Album: Beggars Banquet
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 15:06:19 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,spotify-this-song
+
+DATA OUTPUT: 
+Artist: Ace of Base
+Song: The Sign
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e76c729b447f4347b573ba9b1bcb8945
+Album: The Sign (US Album) [Remastered]
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 15:07:12 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,movie-this,being there
+DATA OUTPUT:
+Title: Being There
+Year: 1979
+IMDb Rating: 8.0
+Rotten Tomatoes Rating: N/A
+Country: USA, West Germany
+Language: English, Russian, Italian
+Plot: A simple, sheltered gardener becomes an unlikely trusted advisor to a powerful businessman and an insider in Washington politics.
+Actors: Peter Sellers, Shirley MacLaine, Melvyn Douglas, Jack Warden
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 15:07:58 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,movie-this,harold and maude
+DATA OUTPUT:
+Title: Harold and Maude
+Year: 1971
+IMDb Rating: 8.0
+Rotten Tomatoes Rating: N/A
+Country: USA
+Language: English
+Plot: Young, rich, and obsessed with death, Harold finds himself changed forever when he meets lively septuagenarian Maude at a funeral.
+Actors: Ruth Gordon, Bud Cort, Vivian Pickles, Cyril Cusack
+---------------------------------------------
+
+---------------------------------------------
+Thu Nov 30 2017 15:08:17 GMT-0500 (Eastern Standard Time)
+
+TERMINAL COMMANDS: C:\Program Files\nodejs\node.exe,C:\Users\K\projects\liri-node-app\liri,movie-this
+DATA OUTPUT:
+Title: Mr. Nobody
+Year: 2009
+IMDb Rating: 7.9
+Rotten Tomatoes Rating: N/A
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+---------------------------------------------
+
